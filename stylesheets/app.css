@@ -1,0 +1,74 @@
+
+body {
+    margin:0;
+    background: #999;
+}
+a {
+    color:#fff;
+    text-decoration: none;
+    text-underline-position: none;
+}
+nav {
+    float:right;
+    background: #555;
+    margin-right: 15px;
+
+}
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+header {
+    overflow: auto;
+}
+main {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+main div {
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: #999;
+}
+aside {
+     clear:both;
+}
+footer div {
+    
+     display: inline-block;
+}
+ul footer {
+
+    border: 5px;
+    border color: #FFF;
+    width:30%;"
+}
+table td,th {
+        border: 4px solid black;
+  }
+.logo {
+    margin-left: 15px;
+    width: 100px;
+    height: 50px;
+    overflow: hidden;
+    background-image: url(../images/devil.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+.col-moitie{
+
+    width: 40%;
+    height: 300px;
+    float: left;
+    background:#ccc;
+    margin: 1%;
+    border: 5px solid black;
+    color: solid blue;
+}
+.image {
+   background-image: url(../images/images.jpg);
+    height: 400px;
+
+}
